@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-# script
-=======
-
 # Software for Blum telegram Bot
 
 ## Requirements
@@ -64,11 +60,3 @@
 - DONT USE MAIN ACCOUNT BECAUSE THERE IS ALWAYS A CHANCE TO GET BANNED IN TELEGRAM
 
 
----
-
-Thank you for using Blum Telegram Bot! Don't forget to follow our [Telegram channel](https://t.me/petyasofts) for updates.
-
-Ton wallet for donations : UQCLxqnBscAH1i8WNU2qfqXrAKCd5AoNgbuNrvZHTZOLI3Yg
-
-
->>>>>>> 2992047 (Initial commit)
